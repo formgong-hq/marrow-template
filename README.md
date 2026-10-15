@@ -1,6 +1,6 @@
 # Marrow: a raw pet-food kitchen site with Formgong forms
 
-Сайт кухні сирого корму для собак і котів з формами Формгонг
+Сайт кухні сирого корму для собак і котів з формами Formgong
 
 A bright one-page site for a small kitchen that makes fresh-frozen raw meals and treats for dogs and cats and takes orders by message, with no checkout. Everything is in one `index.html` plus an `img/` folder. The demo kitchen, Marrow Kitchen in Portland, its recipes, prices, address and reviews are fictional.
 
